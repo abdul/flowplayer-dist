@@ -12,10 +12,6 @@
     "flowplayer",
     "player"
   ],
-  "repository": {
-      "type": "git",
-        "url": "https://github.com/flowplayer/flowplayer.git"
-  },
   "license": "GPL v3 with an ADDITIONAL TERM per GPL Section 7",
   "ignore": [
     "**/.*",
