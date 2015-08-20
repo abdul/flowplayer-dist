@@ -6,7 +6,7 @@
     "Abdul Qabiz <abdul.qabiz@gmail.com>"
   ],
   "description": "flowplayer distribution",
-  "main": "flowplayer.js",
+  "main": ["flowplayer.js","./skin/minimalist.css"],
   "keywords": [
     "video",
     "flowplayer",
